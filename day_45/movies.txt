@@ -1,0 +1,100 @@
+1)  The Godfather | Хрещений батько
+2)  The Empire Strikes Back | Імперія вражає назад
+3)  The Dark Knight | Темний лицар
+4)  The Shawshank Redemption | Втеча з Шоушенка
+5)  Pulp Fiction | Кримінальне чтиво
+6)  Goodfellas | Goodfellas
+7)  Raiders Of The Lost Ark | Рейдери втраченого ковчега
+8)  Jaws | Щелепи
+9)  Star Wars | Зоряні війни
+10)  The Lord Of The Rings: The Fellowship Of The Ring | Володар кілець: Стипендія кільця
+11)  Back To The Future | Назад у майбутнє
+12)  The Godfather Part II | Частина Хрещеного батька II
+13)  Blade Runner | Той, що біжить по лезу бритви
+14)  Alien | Чужий
+15)  Aliens | Прибульці
+16)  The Lord Of The Rings: The Return Of The King | Володар кілець: Повернення царя
+17)  Fight Club | Бійцівський клуб
+18)  Inception | Початок
+19)  Jurassic Park | Парк Юрського періоду
+20)  Die Hard | Помри у муках
+21)  2001: A Space Odyssey | 2001: космічна Одіссея
+22)  Apocalypse Now | Апокаліпсис зараз
+23)  The Lord Of The Rings: The Two Towers | Володар кілець: дві вежі
+24)  The Matrix | Матриця
+25)  Terminator 2: Judgment Day | Термінатор 2: День судження
+26)  Heat | Спека
+27)  The Good, The Bad And The Ugly | Добре, погане і потворне
+28)  Casablanca | Касабланка
+29)  The Big Lebowski | Великий Лебовський
+30)  Seven | Сім
+31)  Taxi Driver | Таксист
+32)  The Usual Suspects | Звичайні підозрювані
+33)  Schindler's List | Список Шиндлера
+34)  Guardians Of The Galaxy | Охоронці Галактики
+35)  The Shining | Сяйво
+36)  The Departed | Відійшов
+37)  The Thing | Річ
+38)  Mad Max: Fury Road | Mad Max: Fury Road
+39)  Saving Private Ryan | Врятувати рядового Раяна
+40)  12 Angry Men | 12 розлючених чоловіків
+41)  Eternal Sunshine Of The Spotless Mind | Вічне сяйво чистого розуму
+42)  There Will Be Blood | Буде кров
+43)  One Flew Over The Cuckoo's Nest | Один пролетів над гніздо зозулі
+44)  Gladiator | Гладіатор
+45)  Drive | Драйв
+46)  Citizen Kane | Громадянин Кейн
+47)  Interstellar | Міжзоряний
+48)  The Silence Of The Lambs | Мовчання ягнят
+49)  Trainspotting | Поїзди
+50)  Lawrence Of Arabia | Лоуренс Аравія
+51)  It's A Wonderful Life | Це чудове життя
+52)  Once Upon A Time In The West | Одного разу на заході
+53)  Psycho | Психо
+54)  Vertigo | Вертиго
+55)  Pan's Labyrinth | Лабіринт Пан
+56)  Reservoir Dogs | Скажені пси
+57)  Whiplash | Батог
+58)  Inglourious Basterds | Безславні виродки
+59)  E.T. â The Extra Terrestrial | Е.Т. - Додатковий наземний
+60)  American Beauty | Американська краса
+61)  Forrest Gump | Форест Гамп
+62)  La La Land | Ла-ла-земля
+63)  Donnie Darko | Донні Дарко
+64)  L.A. Confidential | Л.А. Конфіденційно
+65)  Avengers Assemble | Месники збираються
+66)  Return Of The Jedi | Повернення джедаїв
+67)  Memento | Спогад
+68)  Ghostbusters | Привидів
+69)  Singin' In The Rain | Співати під дощем
+70)  The Lion King | Король Лев
+71)  Hot Fuzz | Гарячий пух
+72)  Rear Window | Заднє скло
+73)  Seven Samurai | Савен Самурай
+74)  Mulholland Dr. | Mulholland Dr.
+75)  Fargo | Фарго
+76)  A Clockwork Orange | Годинниковий помаранчевий
+77)  Toy Story | Історія іграшок
+78)  Oldboy | Дружище
+79)  Captain America: Civil War | Капітан Америка: Громадянська війна
+15)  Spirited Away | Вивезений
+81)  The Social Network | Соціальна мережа
+82)  Some Like It Hot | Деяким подобається гаряче
+83)  True Romance | Справжній роман
+84)  Rocky | Скелястий
+85)  LÃ©on | Lã © є
+86)  Indiana Jones And The Last Crusade | Індіана Джонс та останній хрестовий похід
+87)  Predator | Хижак
+88)  The Exorcist | Екзорцист
+89)  Shaun Of The Dead | Шон мертвих
+90)  No Country For Old Men | Жодної країни для стариків
+91)  The Prestige | Престиж
+92)  The Terminator | Термінатор
+93)  The Princess Bride | Наречена принцеси
+94)  Lost In Translation | Втрачено в перекладі
+95)  Arrival | Прибуття
+96)  Good Will Hunting | Хороша воля полювання
+97)  Titanic | Титанічний
+98)  Amelie | Амелі
+99)  Raging Bull | Бурхливий бик
+100)  Stand By Me | Стоїть біля мене
